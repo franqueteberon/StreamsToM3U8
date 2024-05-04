@@ -9,10 +9,10 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 group-title="Taiwan", TVBS新聞
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714835844/ei/JP01ZoXZJLeLkucP2pWOuAY/ip/40.76.106.54/id/2mCSYvcfhtc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f0heDukbx5SOR2Jomv4ii08PBbzhm94gWmXf8fO5cQt1-lc41KZ0We2g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVpyYL_8l-4w5jan6AmHCuC1S6b6uzOsnxkcgfwS0PfACIQDRBtaLk8Kl7WeVRjfAWtzBE9yktKTM5MeCfvSxhq_5sQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan", 台視新聞
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714835845/ei/Jf01ZunmDrSekucPxZGysAw/ip/40.76.106.54/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-P5EeVHf_8kekoL1AfppXTqWNIehkwidRobN5lbJDDK-41vKPxJGmnq/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALjovl46lD_aF2RJxJCdCHlVVcYCnKkE4kJA7EZYlW3aAiBZB1tZyfajIJWo7-49OAfyBeXRt-40KBYBpxpJRPRVeg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan", 民視新聞
 https://www.youtube.com/watch?v=1oh9IEwBbFY
@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 group-title="Singapore", CNA
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714835846/ei/Jv01ZoKZOJ6ikucPxvu-KA/ip/40.76.106.54/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAITGAWEFGKSb3mz5Rw-GZF9vU6xf7MsWNBoeJxvlOQCNAiAQAoN4RzQ48zhTw5yRym-rbyUE5xADaAowv5k4c1A9oQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Germany", DW
 https://www.youtube.com/watch?v=1oh9IEwBbFY

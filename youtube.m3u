@@ -9,10 +9,10 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 group-title="Taiwan", TVBS新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716585574/ei/BrBQZtLBJefXsfIP-NKOyAw/ip/52.234.38.47/id/2mCSYvcfhtc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f6Kc1UCOgOjurFMhp1VgxxeJnaTlzVSJzFE39Yr8dNKRoTE9OmL0OSanTeQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgFmgAOpURZnB9FzVWnisiuTZ11xLgYRZeGCndyt33Kx0CIFbUnRwnL00mMAg66MA9rIlSYoAIX6jgXK42cu6XRw42/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716589241/ei/Wb5QZsfxC7-KsfIPxb61wAk/ip/52.234.38.140/id/2mCSYvcfhtc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLsEHyN9VD6uJUDKFUConYrybjoH5HwP49CuW4O2uewACIQCnIetzLCSqWMaOAsK8GYMwua2lDvPZy3Wx3XqLtROCWQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan", 台視新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716585575/ei/B7BQZtiDFdmYsfIP84GKkAs/ip/52.234.38.47/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAM6tJgWt3lOioAYnQWpqx26hzFoyfJaaL9oz6zTGHayAAiBDzH4vvENxyDzQ2yFWe2KcZk71GvybN3qSiUStprL8zg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716589241/ei/Wb5QZoDKNay3sfIPppazoA8/ip/52.234.38.140/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3uHyJbNOLec9BQs2WDQeaLNlepp275F9pdMJi4LAkzsFll-oZS_Gp4p-dk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPncQIFbhnZgKzpu4IoUMCZ5ScQHJsenNYWFnRtCiXXHAiBafnhMVBV2zYWcIXwLgeRRcFi0Od1_vOqR7YHfrZR09g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan", 民視新聞
 https://www.youtube.com/watch?v=1oh9IEwBbFY
@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 group-title="Singapore", CNA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716585577/ei/CbBQZuuZIf3VsfIP18KtgAo/ip/52.234.38.47/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOaPHhaMPjWuIA_zHiei95cBL3hdZp-T-0Y2Wioyv2MxAiBRFFvAO3FFxWvPjbQI7YhsDh8hfasgHztrDXcoVbXVyw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716589244/ei/XL5QZrznBti6sfIP5JW4yAs/ip/52.234.38.140/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgHwyJuq4XQDzYYyrP-RnV_7doaiWAMQG51PrTIfwGp3ECICL1bRsBw3d-Dcd49WFWES2rFtakpE6xDen4LlzHXVbC/file/index.m3u8
 
 #EXTINF:-1 group-title="Germany", DW
 https://www.youtube.com/watch?v=1oh9IEwBbFY
